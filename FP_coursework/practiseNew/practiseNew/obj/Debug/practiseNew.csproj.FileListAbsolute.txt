@@ -1,0 +1,11 @@
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\bin\Debug\db.mdb
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\bin\Debug\practiseNew.exe.config
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\bin\Debug\practiseNew.exe
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\bin\Debug\practiseNew.pdb
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\obj\Debug\practiseNew.csprojAssemblyReference.cache
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\obj\Debug\practiseNew.Form1.resources
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\obj\Debug\practiseNew.Properties.Resources.resources
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\obj\Debug\practiseNew.csproj.GenerateResource.cache
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\obj\Debug\practiseNew.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\obj\Debug\practiseNew.exe
+\\peter\ZDrive\00013457\My Documents\FP_coursework\practiseNew\practiseNew\obj\Debug\practiseNew.pdb

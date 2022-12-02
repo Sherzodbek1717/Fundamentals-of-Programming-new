@@ -1,0 +1,11 @@
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\bin\Debug\db.mdb
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\bin\Debug\week10new.exe.config
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\bin\Debug\week10new.exe
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\bin\Debug\week10new.pdb
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\obj\Debug\week10new.csprojAssemblyReference.cache
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\obj\Debug\week10new.Form1.resources
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\obj\Debug\week10new.Properties.Resources.resources
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\obj\Debug\week10new.csproj.GenerateResource.cache
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\obj\Debug\week10new.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\obj\Debug\week10new.exe
+\\peter\ZDrive\00013457\My Documents\FP_coursework\week10new\week10new\obj\Debug\week10new.pdb
