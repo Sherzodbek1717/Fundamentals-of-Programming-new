@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\bin\Debug\db.mdb
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\bin\Debug\practiceForExam.exe.config
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\bin\Debug\practiceForExam.exe
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\bin\Debug\practiceForExam.pdb
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\obj\Debug\practiceForExam.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\obj\Debug\practiceForExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\obj\Debug\practiceForExam.Form1.resources
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\obj\Debug\practiceForExam.Properties.Resources.resources
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\obj\Debug\practiceForExam.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\obj\Debug\practiceForExam.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\obj\Debug\practiceForExam.exe
+C:\Users\ASUS\source\repos\practiceForExam\practiceForExam\obj\Debug\practiceForExam.pdb
